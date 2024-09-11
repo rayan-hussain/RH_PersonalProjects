@@ -1,0 +1,1 @@
+These AI bots require authentication through a HuggingFace API Token in order to operate. This token should be placed in a .env file.
